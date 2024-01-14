@@ -4,7 +4,7 @@ The following project was done as a hobby to compile all my bank statements for 
 
 Three main steps included where to 
 * Aquiring the raw data
-  ** Download all the bank statements
+  * Download all the bank statements
   **
   
 
