@@ -23,5 +23,5 @@ Three main steps included where to
   
 * EDA
   
-Link to my bank statements analysis dashboard created in Tableau:
-https://gavman95.github.io/personal-projects/
+   Link to my bank statements analysis dashboard created in Tableau:
+   https://gavman95.github.io/personal-projects/
